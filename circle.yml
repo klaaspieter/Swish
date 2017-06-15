@@ -3,6 +3,8 @@ machine:
     version: "8.3"
 
 dependencies:
+  pre:
+    - brew upgrade carthage
   override:
     - bin/setup
 
