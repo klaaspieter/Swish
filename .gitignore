@@ -35,4 +35,8 @@ Carthage/Build
 .idea/
 *.iml
 
+# SPM
+/.build
+/Packages
+/Package.resolved
 Argo.framework.zip
